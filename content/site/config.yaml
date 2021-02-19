@@ -1,0 +1,17 @@
+---
+#
+# Personnalisation du Site
+# !!!Ne pas changer le nom et déplacer ce fichier
+#
+title : "BiVOUAC"
+subtitle: "www.billerot.eu"
+
+# l'icône dans l'onglet du navigateur
+favicon: "/site/bivouac.jpg"
+
+# l'image arrondie dans la carte du sommaire
+avatar: "/site/bivouac.jpg"
+
+# l'image d'arrière plan du site v3
+backgroundImage: "/site/pexels-irina-iriser-2781760.jpg"
+---
