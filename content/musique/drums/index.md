@@ -13,4 +13,5 @@ cover: /musique/drums/drums-cover.jpg
 Pour vous accompagner...
 <!--more-->
 ![](/musique/drums/drums-banniere.jpg)
+
 {{< players "/musique/drums/audio" >}}
