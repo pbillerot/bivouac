@@ -13,8 +13,6 @@ style: bee-chanson
 <!--more-->
 {{% colonnes %}}
 
-{{% colonne height %}}
-
 Les chansons de Prévert, me reviennent  
 De tous les souffleurs de vers...laine  
 Du vieux Ferré les cris, la tempête  
@@ -34,9 +32,7 @@ Oh ma Zelda c'est fini, Mont parnasse
 Miles Davis qui sonne, sa Gréco  
 Tous les Morrison, leur Nico  
 
-{{% /colonne %}}
-
-{{% colonne height %}}
+<--->
 
 >Rive Gauche à Paris  
 Oh mon île Oh mon pays  
@@ -59,8 +55,6 @@ Traité par le mépris
 Comme le Québec par les Etats-Unis  
 Comme nous aussi  
 Ah ! le mépris ah ! le mépris
-
-{{% /colonne %}}
 
 {{% /colonnes %}}
 

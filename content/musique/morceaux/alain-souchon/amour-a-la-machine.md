@@ -12,7 +12,7 @@ style: bee-chanson
 > Alain Souchon - C'est déjà ça - 1993
 <!--more-->
 {{% colonnes %}}
-{{% colonne height %}}
+
 >Passez notre amour à la machine, faites bouillir  
 Pour voir si les couleurs d’origine, peuvent revenir  
 Est-ce qu’on peut ravoir à l’eau de Javel, des sentiments  
@@ -24,8 +24,9 @@ Le bleu de nos baisers du début
 Tant d’azur perdu  
 
 >Refrain
-{{% /colonne %}}
-{{% colonne height %}}
+
+<--->
+
 Matisse l’amour c’est bleu difficile  
 Les caresses rouges fragiles  
 Le soleil de la vie les tabasse  
@@ -41,6 +42,6 @@ Tout autour, du monde
 >Refrain
 
 >Allez ! A la machine !
-{{% /colonne %}}
 {{% /colonnes %}}
+
 {{< player "https://www.billerot.eu/store/musique/Alain Souchon - L'amour à la machine.ogg" >}}

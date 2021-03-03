@@ -13,8 +13,6 @@ style: bee-chanson
 <!--more-->
 {{% colonnes %}}
 
-{{% colonne height %}}
-
 Oh la la la vie en rose  
 Le rose qu'on nous propose  
 D'avoir les quantités d’choses  
@@ -32,9 +30,7 @@ Foule sentimentale
 Il faut voir comme on nous parle  
 Comme on nous parle
 
-{{% /colonne %}}
-
-{{% colonne height %}}
+<--->
 
 Il se dégage  
 De ces cartons d'emballage  
@@ -57,8 +53,6 @@ Pour demain nos enfants pâles
 Un mieux, un rêve, un cheval
 
 >refrain
-
-{{% /colonne %}}
 
 {{% /colonnes %}}
 

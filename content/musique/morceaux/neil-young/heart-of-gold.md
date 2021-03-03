@@ -14,7 +14,6 @@ style: bee-chanson
 
 {{% colonnes %}}
 
-{{% colonne height %}}
 I want to live  
 I want to give  
 I've been a miner  
@@ -28,9 +27,9 @@ And I'm getting old
 Keep me searching  
 For a heart of gold  
 And I'm getting old  
-{{% /colonne %}}
 
-{{% colonne height %}}
+<--->
+
 I've been to Hollywood  
 I've been to Redwood  
 I crossed the ocean  
@@ -52,7 +51,7 @@ For a heart of gold
 >I've been a miner  
 For a heart of gold
 
-{{% /colonne %}}
 {{% /colonnes %}}
+
 {{< player "https://www.billerot.eu/store/musique/Neil Young - Heart Of Gold.mp3" >}}
 {{< bouton icone="language orange" lien="/musique/morceaux/neil-young/heart-of-gold-fr" titre="Traduction" >}}

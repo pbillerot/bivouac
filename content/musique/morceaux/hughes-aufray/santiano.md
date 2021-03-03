@@ -12,7 +12,7 @@ style: bee-chanson
 > Hughes Aufray - Santiano - 1961
 <!--more-->
 {{% colonnes %}}
-{{% colonne height %}}
+
 C'est un fameux trois-mâts, fin comme un oiseau  
 Hisse et ho, Santiano  
 Dix-huits noeuds, quatre cents tonneaux  
@@ -29,8 +29,8 @@ D'y penser, j'avais le coeur gros
 En doublant les feux de Saint Malo
 
 > refrain
-{{% /colonne %}}
-{{% colonne height %}}
+
+<--->
 
 On prétend que là-bas, l'argent coule à flots  
 Hisse et ho, Santiano  
@@ -48,6 +48,6 @@ Au pays, j'irai voir Margot
 Hisse et ho, Santiano  
 Sur la mer qui fait le gros dos  
 Nous irons jusqu'à San Francisco
-{{% /colonne %}}
+
 {{% /colonnes %}}
 {{< player "https://www.billerot.eu/store/musique/Hugues Aufray - Santiano.mp3" >}}
