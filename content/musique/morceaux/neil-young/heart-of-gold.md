@@ -4,7 +4,8 @@ draft: false
 date: 2021-02-15 
 tags: 
 - chanson
-
+_build:
+  list: false
 # image de couverture dans le sommaire de la page
 cover: /site/media/chanson.jpg
 style: bee-chanson
