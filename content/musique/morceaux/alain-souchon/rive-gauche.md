@@ -13,7 +13,7 @@ style: bee-chanson
 ---
 > Alain Souchon - Au raz des pâquerettes - 1999
 <!--more-->
-{{% colonnes %}}
+{{< colonnes >}}
 
 Les chansons de Prévert, me reviennent  
 De tous les souffleurs de vers...laine  
@@ -58,6 +58,7 @@ Comme le Québec par les Etats-Unis
 Comme nous aussi  
 Ah ! le mépris ah ! le mépris
 
-{{% /colonnes %}}
+{{< /colonnes >}}
 
 {{< player "https://www.billerot.eu/store/musique/Alain Souchon - rive gauche.mp3" >}}
+{{< player "https://www.billerot.eu/musique/drums/110.wav" "Batterie 110">}}

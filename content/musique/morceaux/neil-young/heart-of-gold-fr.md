@@ -13,7 +13,7 @@ style: bee-chanson
 ---
 > Neil Young - Harvest - 1972
 <!--more-->
-{{% colonnes %}}
+{{< colonnes >}}
 
 I want to live  
 _Je veux vivre_  
@@ -43,4 +43,4 @@ _Qui me pousse à continuer à chercher un cœur d'or_
 And I'm getting old.  
 _Et je me fais vieux_
 
-{{% /colonnes %}}
+{{< /colonnes >}}

@@ -13,7 +13,7 @@ style: bee-chanson
 ---
 > Alain Souchon - C'est déjà ça - 1993
 <!--more-->
-{{% colonnes %}}
+{{< colonnes >}}
 
 >Passez notre amour à la machine, faites bouillir  
 Pour voir si les couleurs d’origine, peuvent revenir  
@@ -44,6 +44,7 @@ Tout autour, du monde
 >Refrain
 
 >Allez ! A la machine !
-{{% /colonnes %}}
+{{< /colonnes >}}
 
 {{< player "https://www.billerot.eu/store/musique/Alain Souchon - L'amour à la machine.ogg" >}}
+{{< player "https://www.billerot.eu/musique/drums/100.wav" "Batterie 100">}}

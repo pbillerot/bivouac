@@ -13,7 +13,7 @@ style: bee-chanson
 > Neil Young - Harvest - 1972
 <!--more-->
 
-{{% colonnes %}}
+{{< colonnes >}}
 
 I want to live  
 I want to give  
@@ -52,7 +52,8 @@ For a heart of gold
 >I've been a miner  
 For a heart of gold
 
-{{% /colonnes %}}
+{{< /colonnes >}}
 
 {{< player "https://www.billerot.eu/store/musique/Neil Young - Heart Of Gold.mp3" >}}
+{{< player "https://www.billerot.eu/musique/drums/100.wav" "Batterie 100">}}
 {{< bouton icone="language orange" lien="/musique/morceaux/neil-young/heart-of-gold-fr" titre="Traduction" >}}

@@ -13,7 +13,7 @@ style: bee-chanson
 ---
 > Hughes Aufray - Santiano - 1961
 <!--more-->
-{{% colonnes %}}
+{{< colonnes >}}
 
 C'est un fameux trois-mâts, fin comme un oiseau  
 Hisse et ho, Santiano  
@@ -51,5 +51,6 @@ Hisse et ho, Santiano
 Sur la mer qui fait le gros dos  
 Nous irons jusqu'à San Francisco
 
-{{% /colonnes %}}
+{{< /colonnes >}}
 {{< player "https://www.billerot.eu/store/musique/Hugues Aufray - Santiano.mp3" >}}
+{{< player "https://www.billerot.eu/musique/drums/110.wav" "Batterie 117">}}

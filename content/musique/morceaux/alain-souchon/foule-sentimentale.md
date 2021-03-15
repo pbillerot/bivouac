@@ -12,7 +12,7 @@ style: bee-chanson
 ---
 >Alain Souchon - C'est déjà ça - 1993
 <!--more-->
-{{% colonnes %}}
+{{< colonnes >}}
 
 Oh la la la vie en rose  
 Le rose qu'on nous propose  
@@ -55,6 +55,7 @@ Un mieux, un rêve, un cheval
 
 >refrain
 
-{{% /colonnes %}}
+{{< /colonnes >}}
 
 {{< player "https://www.billerot.eu/store/musique/Alain Souchon - Foule Sentimentale.ogg" >}}
+{{< player "https://www.billerot.eu/musique/drums/110.wav" "Batterie 110">}}
