@@ -58,4 +58,4 @@ Un mieux, un rêve, un cheval
 {{< /colonnes >}}
 
 {{< player "https://www.billerot.eu/store/musique/Alain Souchon - Foule Sentimentale.ogg" >}}
-{{< player "https://www.billerot.eu/musique/drums/110.wav" "Batterie 110">}}
+{{< player "/musique/drums/audio/110.wav" "Batterie 110">}}

@@ -55,5 +55,5 @@ For a heart of gold
 {{< /colonnes >}}
 
 {{< player "https://www.billerot.eu/store/musique/Neil Young - Heart Of Gold.mp3" >}}
-{{< player "https://www.billerot.eu/musique/drums/100.wav" "Batterie 100">}}
+{{< player "/musique/drums/audio/100.wav" "Batterie 100">}}
 {{< bouton icone="language orange" lien="/musique/morceaux/neil-young/heart-of-gold-fr" titre="Traduction" >}}

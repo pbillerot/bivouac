@@ -61,4 +61,4 @@ Ah ! le mépris ah ! le mépris
 {{< /colonnes >}}
 
 {{< player "https://www.billerot.eu/store/musique/Alain Souchon - rive gauche.mp3" >}}
-{{< player "https://www.billerot.eu/musique/drums/110.wav" "Batterie 110">}}
+{{< player "/musique/drums/audio/110.wav" "Batterie 110">}}

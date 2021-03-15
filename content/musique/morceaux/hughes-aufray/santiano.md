@@ -53,4 +53,4 @@ Nous irons jusqu'à San Francisco
 
 {{< /colonnes >}}
 {{< player "https://www.billerot.eu/store/musique/Hugues Aufray - Santiano.mp3" >}}
-{{< player "https://www.billerot.eu/musique/drums/110.wav" "Batterie 117">}}
+{{< player "/musique/drums/audio/110.wav" "Batterie 117">}}

@@ -47,4 +47,4 @@ Tout autour, du monde
 {{< /colonnes >}}
 
 {{< player "https://www.billerot.eu/store/musique/Alain Souchon - L'amour à la machine.ogg" >}}
-{{< player "https://www.billerot.eu/musique/drums/100.wav" "Batterie 100">}}
+{{< player "/musique/drums/audio/100.wav" "Batterie 100">}}
