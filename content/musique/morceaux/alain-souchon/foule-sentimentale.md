@@ -6,7 +6,7 @@ tags:
 - chanson
 
 # image de couverture dans le sommaire de la page
-cover: /musique/morceaux/cover.jpg
+cover: /site/media/chanson.jpg
 style: bee-chanson
 ---
 >Alain Souchon - C'est déjà ça - 1993

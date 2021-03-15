@@ -6,7 +6,7 @@ categories:
 - help
 
 # image de couverture dans le sommaire de la page
-cover: /musique/morceaux/cover.jpg
+cover: /site/media/chanson.jpg
 style: bee-chanson
 ---
 > Neil Young - Harvest - 1972

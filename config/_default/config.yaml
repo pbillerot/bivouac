@@ -8,13 +8,13 @@ params:
   subtitle: "www.billerot.eu"
 
   # l'icône dans l'onglet du navigateur
-  favicon: "/site/bivouac.jpg"
+  favicon: "/site/media/bivouac.jpg"
 
   # l'image arrondie dans la carte du sommaire
-  avatar: "/site/bivouac.jpg"
+  avatar: "/site/media/bivouac.jpg"
 
   # l'image d'arrière plan du site v3
-  backgroundImage: "/site/pexels-irina-iriser-2781760.jpg"
+  backgroundImage: "/site/media/beedream.jpg"
   
 # Menu Links et Navigation
 menu:

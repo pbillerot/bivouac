@@ -8,10 +8,10 @@ tags:
 - batterie
 
 # image de couverture dans le sommaire de la page
-cover: /musique/drums/drums-cover.jpg
+cover: /site/media/drums-cover.jpg
 ---
 Pour vous accompagner...
 <!--more-->
-![](/musique/drums/drums-banniere.jpg)
+![](/site/media/drums-banniere.jpg)
 
 {{< players "/musique/drums/audio" >}}
